@@ -5,5 +5,5 @@ You can add a new color by running the finding values file and keeping the color
 
 To add the color you just need to add those 6 values to the myColors list in the virtual paint code file and also find the filling color by finding the rgb values of the color and add it to the myColorValues list in the virtual paint code file.
 
-image_3
+
 
